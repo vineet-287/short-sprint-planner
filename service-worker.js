@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/short-sprint-planner/precache-manifest.8dab211cef852ba148d4dab4addb158b.js"
+  "/short-sprint-planner/precache-manifest.b624b3063957d5f7ec330a9b0baa7afa.js"
 );
 
 workbox.clientsClaim();
