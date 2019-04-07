@@ -1,4 +1,4 @@
-# short-sprint-planner
+# Short Sprint Planner
 This web is a demonstration of effort based sprint estimations. This project will help to automate sprint planning meetings in less time.  On the other hand, this project can also be known as "One Page Sprint Planner". Completely written in React.js.  
 
 **How to install**  
