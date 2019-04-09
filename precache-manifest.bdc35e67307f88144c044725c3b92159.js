@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/short-sprint-planner/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "077fb23b5710db0ece494b42847f7ec9",
+    "revision": "32770dcf4aeb93a20bd56ed5da6c8eca",
     "url": "/short-sprint-planner/index.html"
   }
 ];
